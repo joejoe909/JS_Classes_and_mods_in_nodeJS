@@ -1,4 +1,4 @@
-import {employee} from "./employee.js";
+import { employee } from "./employee.js";
 
 function lg(val) {
     console.log(val);
